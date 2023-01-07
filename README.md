@@ -15,3 +15,7 @@
 * Improved security by using token-based authentication and server-side authorization via Spring Security.
 
 * Deployed the services on the Google App Engine for better scalability and reliability.
+  \
+  \
+  \
+  Link to frontend depository: https://github.com/xiaorandu/cosmoscabin_frontend
