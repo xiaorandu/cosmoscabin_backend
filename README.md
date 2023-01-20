@@ -1,6 +1,6 @@
 ### CosmosCabin: A Geolocation-based Full Stack Cabin Vacation Rental Web Application  
 
-* Online demo: https://dev5753.d3oqfrppu54t3u.amplifyapp.com
+* Demo on Youtube: https://youtu.be/l6sAhDGgtC0
 
 * Developed an user-friendly web page with React JS and Ant Design.
 
