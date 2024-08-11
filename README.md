@@ -1,7 +1,11 @@
-### CosmosCabin: A Geolocation-based Full Stack Cabin Vacation Rental Web Application  
+## CosmosCabin: A Geolocation-based Full Stack Cabin Vacation Rental Web Application  
++ [1. Introduction](#1-introduction)
++ [2. Database](#2-Database)
++ [3. Virtual Environment Setup](#3-Virtual-Environment-Setup)
++ [4. Models](#4-Models)
 
+### 1. Introduction
 * Demo on Youtube: https://youtu.be/l6sAhDGgtC0
-
 * Developed an user-friendly web page with React JS and Ant Design.
 
 * Implemented backend services via Spring Boot to support cabin management and reservation. 
@@ -19,3 +23,5 @@
   \
   \
   Link to frontend depository: https://github.com/xiaorandu/cosmoscabin_frontend
+### 2. Database
+<img src="dataModel.png" alt="Alt text" width="50%"/>
