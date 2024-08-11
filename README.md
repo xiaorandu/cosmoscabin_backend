@@ -1,7 +1,7 @@
 ## CosmosCabin: A Geolocation-based Full Stack Cabin Vacation Rental Web Application  
 + [1. Introduction](#1-introduction)
-+ [2. Database](#2-Database)
-+ [3. Virtual Environment Setup](#3-Virtual-Environment-Setup)
++ [2. Backend Overview](#2-Backend-Overview)
++ [3. Database](#3-Database)
 + [4. Models](#4-Models)
 
 ### 1. Introduction
@@ -23,5 +23,8 @@
   \
   \
   Link to frontend depository: https://github.com/xiaorandu/cosmoscabin_frontend
-### 2. Database
+
+### 2. Backend Overview
+
+### 3. Database
 <img src="src/main/java/com/project/onlinebooking/dataModel.png" alt="Alt text" width="80%"/>
