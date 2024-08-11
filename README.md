@@ -24,4 +24,4 @@
   \
   Link to frontend depository: https://github.com/xiaorandu/cosmoscabin_frontend
 ### 2. Database
-<img src="dataModel.png" alt="Alt text" width="50%"/>
+<img src="src/main/java/com/project/onlinebooking/dataModel.png" alt="Alt text" width="80%"/>
