@@ -9,12 +9,12 @@
 + Developed a cabin vacation rental web application with a **React JS** frontend and a **Spring Boot** backend, enabling cabin management and reservation services. Deployed the backend services on **Google App Engine**. 
 + Utilized **MySQL** and **Google Cloud Storage** for data storage, with **Hibernate** handling ORM and data operations.
 + Implemented geolocation-based search by utilizing **Elasticsearch**, deployed on **Google Cloud Compute Engine**.
-  \
-  \
-  Link to frontend depository: https://github.com/xiaorandu/cosmoscabin_frontend
-
++ Implemented **token-based** server side user authentication based on the **Spring Security framework**.
 + Demo video: https://youtu.be/l6sAhDGgtC0
 [![Watch the video](src/main/java/com/project/onlinebooking/demo.png)](https://youtu.be/l6sAhDGgtC0)
+
++ Link to frontend depository: https://github.com/xiaorandu/cosmoscabin_frontend
+
 
 ### 2. Backend Overview
 <img src="src/main/java/com/project/onlinebooking/backend.png" alt="Alt text" width="100%"/>
