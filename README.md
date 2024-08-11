@@ -5,29 +5,19 @@
 + [4. Models](#4-Models)
 
 ### 1. Introduction
-+ Demo video: https://youtu.be/l6sAhDGgtC0
-[![Watch the video](src/main/java/com/project/onlinebooking/demo.png)](https://youtu.be/l6sAhDGgtC0)
-
-* Developed an user-friendly web page with React JS and Ant Design.
-
-* Implemented backend services via Spring Boot to support cabin management and reservation. 
-
-* Utilized Spring JPA to access and operate data stored in MySQL Database on Amazon RDS.
-
-* Utilized Google Cloud Storage to store media files of the uploaded cabin rental information.
-
-* Implemented geolocation-based search by utilizing Elasticsearch on Google Cloud Compute Engine.
-
-* Improved security by using token-based authentication and server-side authorization via Spring Security.
-
-* Deployed the services on the Google App Engine for better scalability and reliability.
-  \
++ **Technologies: Java, JavaScript, Spring Boot, React JS, Hibernate, MySQL, Elasticsearch, Google Cloud Storage**
++ Developed a cabin vacation rental web application with a **React JS** frontend and a **Spring Boot** backend, enabling cabin management and reservation services. Deployed the backend services on **Google App Engine**. 
++ Utilized **MySQL** and **Google Cloud Storage** for data storage, with **Hibernate** handling ORM and data operations.
++ Implemented geolocation-based search by utilizing **Elasticsearch**, deployed on **Google Cloud Compute Engine**.
   \
   \
   Link to frontend depository: https://github.com/xiaorandu/cosmoscabin_frontend
 
++ Demo video: https://youtu.be/l6sAhDGgtC0
+[![Watch the video](src/main/java/com/project/onlinebooking/demo.png)](https://youtu.be/l6sAhDGgtC0)
+
 ### 2. Backend Overview
-<img src="src/main/java/com/project/onlinebooking/backend.png" alt="Alt text" width="90%"/>
+<img src="src/main/java/com/project/onlinebooking/backend.png" alt="Alt text" width="100%"/>
 
 ### 3. Database Schema
 <img src="src/main/java/com/project/onlinebooking/dataModel.png" alt="Alt text" width="80%"/>
