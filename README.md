@@ -2,7 +2,6 @@
 + [1. Introduction](#1-introduction)
 + [2. Backend Overview](#2-Backend-Overview)
 + [3. Database Schema](#3-Database-Schema)
-+ [4. Models](#4-Models)
 
 ### 1. Introduction
 + **Technologies: Java, JavaScript, Spring Boot, React JS, Hibernate, MySQL, Elasticsearch, Google Cloud Storage**
